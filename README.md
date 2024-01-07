@@ -1,6 +1,6 @@
 # NBU-valute-parsing
 
-<h3>Eslatma api ma'lumotlar <a href="https://nbu.uz/en/exchange-rates/"> NBU </a>rasmiy web saxifasidan olinmoqda qaysidur valyuta kurni kanvertatsiya qila olmasangiz bilinki muammo bank tomonidan kelayotgan ma'lumotlarda</h3>
+<h3>Eslatma api ma'lumotlar <a href="https://nbu.uz/en/exchange-rates/"> NBU </a>rasmiy web saxifasidan olinmoqda qaysidur valyuta kursini kanvertatsiya qila olmasangiz bilingki muammo bank tomonidan kelayotgan ma'lumotlarda</h3>
 <h1>py -m venv env</h1>
 
 <h1>env/Scripts/activate  </h1>
